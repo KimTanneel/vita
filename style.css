@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+} 
+.body{
+    height: 2000px !important ; 
+    background-color: lightcoral;
+
+}
+.Title{
+    font-weight: 700;
+    font-size: 16px;
+}
+input{
+   margin: 5px; 
+}
